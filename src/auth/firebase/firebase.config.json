@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "projectId": "viact-backend-a3dbb",
+  "privateKeyId": "93ad086508481d35a799ba25935fe5984afc05fc",
+  "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCz2+LKvRyTOQ0I\n1yaFwXpgnuEdcwSfVn34ZuxL/1HC6ttML4RfLs7hoL3ZF+rB0xjDIi2TeLrufsYx\nbLSXfPTXp+pb99a+b2PVKxbi1lOg/cs5qUOz878gFxXSX5n6qNWgpXBR3ySbtxhe\nhq4WN8aPVR7Fx9v0xT2XlP/o93h6mia36ugThqFnlbLq6KWVdXm0CIUcbaWYUm2K\nPORcqPH2RHiFwcnF07rXdSqNzo/fzcx6lN/ifiYrbJtI47G8Gg5K5iRykniD8tRT\nvF8Vnq2eFJEoiDolqChPWHile+i03+mtsmrAshBYPo4EIalCeOQYCTN9nQn2/+QL\nn3RQYH2FAgMBAAECggEAQG8hcB1Q2+Nf6o9dgySdyXiR0GGQwd6UEYYZ2F4XNfu6\nZbBOPWVBA275JImfdiHAqMOZTVA+s8tiCHnXtr+y3YGQAbOn0KCKROeDcu9ylWXm\nxPkBQroref0bObs7KCQNKFishQAqlsiA5/ha7KW9skK93AAuKiHxX1knVxg1JsJy\nJhm8MdVUgD3MfOoZsj1cXTtTYoLZzabNyMAkgGmL7b2epeaq89q5s1+KIAeIYplp\nodLeos3u6XvXjGgZA/PCEA0Pz0B/+J1V7cB24VtlHoldnR0mqt7zrkJbib3Kfp60\n5Qh8d/b4l6vNRVVlqzT/cpCk8zptCtKQjldh1Bu/jwKBgQDXTYMi08Zh9cvYmqbD\nUs3BZgQkPP9AM2Vid6Dj5V5A0qriB/EqZeE2rVcfoo+uBoxYkyxkEEb5VJk5guXc\nsFtWlnDiseoA0rGh/zzN0w6BPGnSx5QYm6RVofN7Tuh+jY0wi1EDbZ4jfdCI2m7c\njcRvwZvPMTL3jhwcVXaDL4OKuwKBgQDV2z92T80AWwNYTVyKumMK4zbfJikHiT08\nA0vMNb0kq58qj+D1Li0Ka1yhGUuUlDMxm4ZKAZXe2L9XPOH5cQfrMDT+Gm9UjehG\n/zNfJigEXbbup5QqWVcJ4qcVfRKlZ5pjCtisK5uEJmKl+n61K1m8IE0GOUN2/LmX\nCfiX8Uo0vwKBgCNmw2E+oSgKWnJLO5ByVRKvy46J2Q6dZNZEBVhzpoPSH/b6h1UJ\nW3a6GdFB0Y4z1W/bAzmQ05q7plYmh9U5ykr6gaVEy81G155jcYQGaCQn4t6domRJ\nc0QBVR+5YdEtRUHuJmwB4jbDwT4/bGsnhF074Hq5BEBgRY8DHnGDpoVxAoGAGYY3\nhtlzcE1sksd4+h3Q4GXKEMwvLXUV1+nUzCTF1HCfaKcPhHPkcE/sGFY6jRs7GPql\nBoQ17QkVnUXo+qqg9VMloAZrrz3YsVCYQwz8zbiZstZRetR67PUeWBQ7e35oENYk\nkjgKMbWbJJBHOzxXU3rPdqSzBqqXRA2unAPyhWUCgYB3YenbXg48Lr41w+PWDCni\nCnx7QgT76QPMlyMutaNV7BQPliG5ZpaqaA7S02oaZddT84FdOD4jZUQdFVMxn/Cb\nYOF9XdBDg+q2qwmwzIfjf4/dOJMZKWfig0yWnl5/+idZTRfNjAovuSUGoBTGa9fG\nEfwsUOou25rVmLhmkAwUTw==\n-----END PRIVATE KEY-----\n",
+  "clientEmail": "firebase-adminsdk-qlthh@viact-backend-a3dbb.iam.gserviceaccount.com",
+  "clientId": "111633272860995741174",
+  "authUri": "https://accounts.google.com/o/oauth2/auth",
+  "tokenUri": "https://oauth2.googleapis.com/token",
+  "authProviderX509CertUrl": "https://www.googleapis.com/oauth2/v1/certs",
+  "clientX509CertUrl": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qlthh%40viact-backend-a3dbb.iam.gserviceaccount.com"
+}
